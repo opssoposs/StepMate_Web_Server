@@ -32,7 +32,7 @@ dependencies {
 	testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
 	testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test")
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
-	implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0")//스웨거 의존성 추가
+	implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0")//Swagger
 }
 
 kotlin {
